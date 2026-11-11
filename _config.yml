@@ -1,0 +1,5 @@
+theme: jekyll-theme-minimal
+title: Runway Sort
+lang: fr
+exclude:
+  - README.md
